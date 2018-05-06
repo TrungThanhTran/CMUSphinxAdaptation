@@ -1,0 +1,101 @@
+>>>> START BuiQuangAnh-san
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/BuiQuangAnh-san/English completed
+Before enter 1 002 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/BuiQuangAnh-san/English/002 completed
+Dir1 002 completed
+>>>> FINISH BuiQuangAnh-san
+>>>> START Cuc-san
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/Cuc-san/English completed
+Before enter 1 002 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/Cuc-san/English/002 completed
+Dir1 002 completed
+>>>> FINISH Cuc-san
+>>>> START Cuong-san
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/Cuong-san/English completed
+Before enter 1 002 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/Cuong-san/English/002 completed
+Dir1 002 completed
+>>>> FINISH Cuong-san
+>>>> START Dai-san
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/Dai-san/English completed
+Before enter 1 002 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/Dai-san/English/002 completed
+Dir1 002 completed
+>>>> FINISH Dai-san
+>>>> START Dang-san
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/Dang-san/English completed
+Before enter 1 002 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/Dang-san/English/002 completed
+Dir1 002 completed
+>>>> FINISH Dang-san
+>>>> START direcotry_001
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_01 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_01 completed
+Dir1 word_01 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_02 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_02 completed
+Dir1 word_02 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_03 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_03 completed
+Dir1 word_03 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_04 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_04 completed
+Dir1 word_04 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_05 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_05 completed
+Dir1 word_05 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_06 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_06 completed
+Dir1 word_06 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_07 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_07 completed
+Dir1 word_07 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_08 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_08 completed
+Dir1 word_08 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_09 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_09 completed
+Dir1 word_09 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_11 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_11 completed
+Dir1 word_11 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_12 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_12 completed
+Dir1 word_12 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_13 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_13 completed
+Dir1 word_13 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_14 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_14 completed
+Dir1 word_14 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_15 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_15 completed
+Dir1 word_15 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_16 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_16 completed
+Dir1 word_16 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_17 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_17 completed
+Dir1 word_17 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_18 completed
+Dir /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English/word_18 completed
+Dir1 word_18 completed
+Before enter /home/koki/AMBuilding_workspace/myModel/en-us/traindata/direcotry_001/English completed
+Before enter 1 word_19 completed

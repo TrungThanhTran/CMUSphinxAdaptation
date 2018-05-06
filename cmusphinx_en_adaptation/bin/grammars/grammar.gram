@@ -1,0 +1,18 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+public <wake> = ( aloha bot | aloha pana);
+public <music> = ( play music | next song | move song | previous song | favorite song);
+public <feature> = ( move | turn off | turn on | help | stop);
+public <volume> = ( volume up | volume down);
+public <media> = ( pause | resume | favorite list | add to favorite list);
+public <greet> = ( hi | hello | good morning | good afternoon | good evening | good bye );
+public <thank> = (thank you | thanks);
+public <question> = ( what time is it | what is the weather | what's the weather | what is the temperature | who are you);
+public <story> = (tell a story);
+

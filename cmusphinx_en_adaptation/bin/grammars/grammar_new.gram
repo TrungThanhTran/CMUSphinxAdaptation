@@ -1,0 +1,18 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar_new;
+
+public <wake> = ( ALOHA BOT | ALOHA PANA);
+public <music> = ( PLAY MUSIC | NEXT SONG | MOVE SONG | PREVIOUS SONG | FAVORITE SONG);
+public <feature> = ( MOVE | TURN OFF | TURN ON | HELP | STOP);
+public <volume> = ( VOLUME UP | VOLUME DOWN);
+public <media> = ( PAUSE | RESUME | FAVORITE LIST | ADD TO FAVORITE LIST);
+public <greet> = ( HI | HELLO | GOOD MORNING | GOOD AFTERNOON | GOOD EVENING | GOOD BYE );
+public <thank> = (THANK YOU | THANKS);
+public <question> = ( WHAT TIME IS IT | WHAT IS THE WEATHER | WHAT'S THE WEATHER | WHAT IS THE TEMPERATURE | WHO ARE YOU);
+public <story> = (TELL A STORY);
+
